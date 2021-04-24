@@ -17,3 +17,5 @@ CTRL + S
 If you dont save no changes will be shown in git
 
 We do not have to push one commit at a time
+You can push multiple commit in one shot
+There is no limit
